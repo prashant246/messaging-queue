@@ -1,5 +1,10 @@
 # Messaging Queue System
 
+## HOW TO START
+```bash
+java -jar target/queue-0.0.1-SNAPSHOT.jar
+```
+
 Swagger Link - http://127.0.0.1:21000/swagger-ui.html
 
 ## QueueController
